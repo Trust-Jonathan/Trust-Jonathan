@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Trust Jonathan
 
-<!--
-**Trust-Jonathan/Trust-Jonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Frontend Developer & Creative Coder from **Uganda**  
+🚀 Building and deploying **daily projects** on GitHub & Firebase  
+💻 Skills: **HTML**, **CSS**, **JavaScript**, **Firebase**, **Git**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Daily Project Tracker
+I commit and push a new project **every day**! Check out my repositories below for the latest projects.  
+
+---
+
+🛠️ My Skills
+- 💻 **Frontend:** HTML, CSS, JavaScript  
+- ☁️ **Hosting/Backend:** Firebase  
+- 🔧 **Tools:** Git, GitHub, VS Code  
+- 🎨 **Design:** UI/UX basics, Creative Coding  
+
+---
+
+📫 Contact Me
+- ✉️ Email: trust@example.com  
+- 🌐 Portfolio: [your-portfolio-link](https://portfolio-link.com)  
+
+---
+
+### 🔗 Favorite Repositories
+Check out some of my pinned projects:  
+- 🌟 `daily-project-001` – Interactive website  
+- 🌟 `daily-project-005` – Firebase-hosted app  
+- 🌟 `portfolio` – My main portfolio site  
+
+---
+
+⚡ Fun Fact
+🎵 I love **music, movies, and hiking**.  
+🤝 Always looking to **connect with other developers**!
