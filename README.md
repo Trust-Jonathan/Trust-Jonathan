@@ -8,7 +8,7 @@
 - ☁️ Hosting/Backend: Firebase  
 - 🔧 Tools: Git, VS Code
   
-📫 Contact: ✉️ trustjonathan.ug@gamil.com | 🌐 [Portfolio](https://portfolio-link.com)
+📫 Contact: ✉️ trustjonathan.ug@gamil.com | 🌐 [Portfolio]([https://portfolio-link.com](https://github.com/Trust-Jonathan))
 
 🔗 Projects
 - 🌟 `daily-project-001` – Interactive website  
